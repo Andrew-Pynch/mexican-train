@@ -13,10 +13,6 @@ const getDoubleTwelveDominoSet = (): Domino[] => {
 				secondValue: j
 			}
 
-			console.log("\n\n=====PUSHING DOMINO=====")
-			console.log(domino)
-			console.log("==========\n\n")
-
 			dominos.push(domino);
 		}
 	}
